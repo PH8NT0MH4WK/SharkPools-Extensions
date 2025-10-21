@@ -581,6 +581,14 @@
       "tags": ["all", "utilities", "expanded", "category"],
       "date": "Last Updated: 07/05/2025"
     },
+    "MIDI-Tools": {
+      "desc": "Various Blocks for .Mid or .Midi File Integration",
+      "creator": "ObscuraPH",
+      "url": "extension-code/MIDI-Tools",
+      "banner": "extension-thumbs/MIDI-Tools.svg",
+      "tags": ["all", "utilities"],
+      "date": "Last Updated: 10/21/2025"
+    },
     "Example": {
       "desc": "",
       "creator": "SharkPool",
